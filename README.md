@@ -4,6 +4,8 @@
 
 🎓 Técnico de TI - Colégio Santo Inácio - Botafogo-RJ.
 
+✅ Meus resumos TI: https://drive.google.com/drive/folders/1HwbQEfxjGNOYn_U_U3MjVVXbBHydb14y?usp=sharing
+
 <div>
   <a href="https://github.com/bruno21santiago">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=brunosantiago&show_icons=true&theme=chartreuse-dark&include_all_commits=true&count_private=true"/>
